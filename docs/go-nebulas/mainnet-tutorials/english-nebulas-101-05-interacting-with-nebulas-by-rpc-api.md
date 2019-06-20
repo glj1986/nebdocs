@@ -127,12 +127,11 @@ if err != nil {
 
 For more interfaces, please refer to the official documentation:
 
-* [API Module](https://github.com/nebulasio/wiki/blob/master/rpc.md)
-* [Admin Module](https://github.com/nebulasio/wiki/blob/master/rpc_admin.md).
-
+* [API Module](../../dapp-development/rpc/rpc.md)
+* [Admin Module](../../dapp-development/rpc/rpc_admin.md).
 ### Next
 
 Nice job! Let's join official Testnet or Mainnet to enjoy Nebulas now!
 
-[Join to Testnet](https://github.com/nebulasio/wiki/blob/master/testnet.md) [Join to Mainnet](https://github.com/nebulasio/wiki/blob/master/mainnet.md)
+[Join to Testnet](../../dapp-development/testnet.md) [Join to Mainnet](../../dapp-development/mainnet.md)
 
